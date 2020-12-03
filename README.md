@@ -14,6 +14,8 @@ Note : "We have used only approx 1500 images of dataset(for training and testing
 		as complete IAM dataset would take hours to train the model"
 * We are now ready to execute the model. Execute: `python3 train.py`
 
+*Accuracy acheived is about 91% on training and ~67 % on testing . 
+
 ## Reference
 ```
 @inproceedings{Sudholt2017-EWS,
